@@ -1,3 +1,4 @@
 # object-cifar10
-v1 - CNN for object classification (Version 1)
-v2 - Building and Implementing AlexNet for object classification
+</hd>
+<p>v1  (Version 1) - CNN for object classification </p>
+<p>v2  (Version 2) - Building and Implementing AlexNet for object classification </p>
